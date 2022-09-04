@@ -21,3 +21,6 @@ const displayTemperature = temperature => {
     const imgIcon = document.getElementById('weather-icon');
     imgIcon.setAttribute('src', url);
 }
+
+// const API_KEY = `46ad7457603b9b0104e633e78cd60e16`;
+// 9249eb7e5665f3fc672f3a05114bb429
